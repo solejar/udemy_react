@@ -17,7 +17,8 @@
   "eslintConfig": {
     "parser": "babel-eslint",
     "rules": {
-      "semi": 2
+      "semi": 2,
+      "react/jsx-no-bind": "off"
     },
     "extends": [
       "standard",
